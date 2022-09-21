@@ -1,0 +1,12 @@
+nome: cadeia
+
+sobrenome: String
+
+peso: número
+
+altura: Number
+
+data Internação: Number
+
+diabético: 
+
